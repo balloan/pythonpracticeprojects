@@ -1,7 +1,6 @@
 """Blackjack - the classic card game. 
 This is a simple version that doesn't have splitting or insurance."""
 
-from audioop import add
 import random
 import sys
 
